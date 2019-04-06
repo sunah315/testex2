@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>문서 제목</title>
+</head>
+<body>
+<h1>리스트</h1>
+<h2>순서 없는 리스트</h2>
+<ul>
+<li>사과</li>
+<li>복숭아</li>
+<li>포도</li>
+</ul>
+<ul type="circle">
+<li>사과</li>
+<li>복숭아</li>
+<li>포도</li>
+</ul>
+
+<h2>순서 있는 리스트</h2>
+<ol>
+<li>사과</li>
+<li>복숭아</li>
+<li>포도</li>
+</ol>
+<ol start="8" type="A">
+<li>사과</li>
+<li>복숭아</li>
+<li>포도</li>
+</ol>
+
+
+</body>
+</html>
+
+</head>
+<body>
+
+</body>
+</html>
